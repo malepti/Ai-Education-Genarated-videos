@@ -1,0 +1,14 @@
+ffmpeg
+libcairo2-dev
+libpango1.0-dev
+texlive
+texlive-latex-extra
+ghostscript
+libgl1-mesa-glx
+libglu1-mesa-dev
+libxi6
+libxrender1
+libxxf86vm1
+libxkbcommon0
+libsm6
+libxext6

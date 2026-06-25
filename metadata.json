@@ -1,0 +1,6 @@
+{
+  "name": "AI Education Video Studio",
+  "description": "An AI-powered educational video generator that automates scene planning, asset creation, narration, and video assembly for shorts, reels, and TikTok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
